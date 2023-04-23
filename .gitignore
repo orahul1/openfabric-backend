@@ -1,0 +1,5 @@
+package-lock.json
+node_modules/
+logs/
+//ecosystem.config.js
+vscode
