@@ -11,7 +11,7 @@ module.exports = {
   autorestart: true,
   env: {
     NODE_ENV: 'development',
-    PORT: '4000',
+    PORT: '80',
     DB_URI:
       'mongodb+srv://openfabric:uXg7T2YEuYwSC0sk@openfabric.syqnzja.mongodb.net/test',
     JWT_SECRET: 'maytheforcebewithyou',
